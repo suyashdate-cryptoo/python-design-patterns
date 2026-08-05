@@ -24,6 +24,24 @@ Ensures that only one instance of a class exists throughout the application.
 - Creational Design Patterns
 - Singleton
 - ---
+
+## 6. Adapter Pattern
+
+Implements the Adapter Pattern to enable incompatible interfaces to work together without modifying their existing code.
+
+### Features
+
+- Interface Adaptation
+- Legacy System Integration
+- Reusable Adapter
+- Loose Coupling
+
+### Concepts Covered
+
+- Adapter Pattern
+- Structural Design Pattern
+- Object Composition
+- Interface Conversion
 ## 2. Factory Method Pattern
 
 Creates objects without exposing the object creation logic to the client.
