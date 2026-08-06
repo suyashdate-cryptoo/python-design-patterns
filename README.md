@@ -110,7 +110,26 @@ Implements the Strategy Pattern to allow selecting different algorithms or behav
 - Easy Extensibility
 
 - ---
-"""
+## 6. Adapter Pattern
+
+Implements the Adapter Pattern to enable incompatible interfaces to work together without modifying their existing code.
+
+### Features
+
+- Interface Adaptation
+- Legacy System Integration
+- Reusable Adapter
+- Loose Coupling
+
+### Concepts Covered
+
+- Adapter Pattern
+- Structural Design Pattern
+- Object Composition
+- Interface Conversion
+- 
+---
+
 ## 8. Command Pattern
 
 Implements the Command Pattern by encapsulating requests as objects, allowing commands to be executed independently of the requester.
