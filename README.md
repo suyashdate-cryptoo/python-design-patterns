@@ -109,9 +109,22 @@ Implements the Strategy Pattern to allow selecting different algorithms or behav
 - Loose Coupling
 - Easy Extensibility
 
+- ---
+"""
+## 8. Command Pattern
+
+Implements the Command Pattern by encapsulating requests as objects, allowing commands to be executed independently of the requester.
+
+### Features
+
+- Encapsulated Requests
+- Loose Coupling
+- Command Execution
+- Reusable Commands
+
 ### Concepts Covered
 
-- Strategy Pattern
-- Polymorphism
-- Composition
+- Command Pattern
 - Behavioral Design Pattern
+- Command Objects
+- Invoker and Receiver
